@@ -3,7 +3,7 @@ function plugin_wfjs_cookie(){
    * Day a created cookie exist.
    * @type Number
    */
-  var days = 99;
+  this.days = 99;
   /**
    * Set a cookie.
    * @param {type} name
