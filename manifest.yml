@@ -3,7 +3,10 @@ history:
   '1.0':
     date: '2019-03-07'
     description: 'Manifest created.'
-plugin: {  }
+plugin:
+  -
+    name: include/js
+    version: '1.0'
 sys:
   -
     name: mercury
